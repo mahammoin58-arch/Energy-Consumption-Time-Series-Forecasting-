@@ -19,8 +19,7 @@ Time-based features such as hour, day, month, weekday, and weekend indicators we
 Trends and patterns in energy usage were analyzed using visualizations, including overall consumption trends and hourly usage behavior.
 
 - Model Building:
-  
-Three different models were implemented:
+  Three different models were implemented:
 
    - ARIMA for statistical time series forecasting
 
