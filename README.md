@@ -29,7 +29,7 @@ Three different models were implemented:
    - XGBoost for machine learning-based prediction using engineered features
 
 - Model Evaluation:
-Models were evaluated using:
+  Models were evaluated using:
 
    - Mean Absolute Error (MAE)
 
