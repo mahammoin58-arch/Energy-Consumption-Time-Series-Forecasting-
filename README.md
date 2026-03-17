@@ -21,18 +21,18 @@ Trends and patterns in energy usage were analyzed using visualizations, includin
 - Model Building:
 Three different models were implemented:
 
-- ARIMA for statistical time series forecasting
+   - ARIMA for statistical time series forecasting
 
-- Prophet for handling seasonality and trends
+   - Prophet for handling seasonality and trends
 
-- XGBoost for machine learning-based prediction using engineered features
+   - XGBoost for machine learning-based prediction using engineered features
 
 - Model Evaluation:
 Models were evaluated using:
 
-- Mean Absolute Error (MAE)
+   - Mean Absolute Error (MAE)
 
-- Root Mean Squared Error (RMSE)
+   - Root Mean Squared Error (RMSE)
 
 - Visualization:
 Actual vs predicted values were plotted to visually compare model performance.
@@ -52,6 +52,6 @@ Actual vs predicted values were plotted to visually compare model performance.
 
 - Energy usage peaks during morning and evening hours
 
-Weekend consumption patterns differ from weekdays
+- Weekend consumption patterns differ from weekdays
 
-Machine learning models outperform traditional methods when meaningful features are available
+- Machine learning models outperform traditional methods when meaningful features are available
